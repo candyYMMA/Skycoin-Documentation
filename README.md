@@ -14,5 +14,21 @@ Wait until download is completed.
 
 Double click the exe file to start the installer.
 
+Skycoin wallet will open.
+
+Click on create wallet.
+
+Look at the field called seed ,remember it, put it some place safe this is the key to your wallet.You lose the key, you loose your money.
+
+You done you've created your first skycoin wallet.
+
+
+
+# Sending money
+
+Now after you create your first wallet let send some money with it.
+
+# Receiving money
+
 
 
