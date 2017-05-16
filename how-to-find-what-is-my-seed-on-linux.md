@@ -1,6 +1,4 @@
-How to find what is my wallet seed on linux.
-
-
+# How to find what is my wallet seed on linux.
 
 Open terminal.
 
@@ -23,6 +21,4 @@ _~/.skycoin/wallets$ grep "seed" \*wlt_
 copy the value between the bracelets.
 
 Now you can paste wherever needed.
-
-
 

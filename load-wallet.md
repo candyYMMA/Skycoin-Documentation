@@ -1,10 +1,10 @@
+# Load wallet
+
 **Prerequisites**:
 
 You have seed value handy.
 
 You have Skycoin client installed.
-
-
 
 Let's get started......
 
