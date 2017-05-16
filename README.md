@@ -1,4 +1,4 @@
-# Create Skycoin wallet tutorial {#create-skycoin-wallet-tutorial}
+# Create Skycoin wallet tutorial on windows {#create-skycoin-wallet-tutorial}
 
 Go to skycoin.net in your browser.
 
