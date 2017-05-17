@@ -4,7 +4,7 @@ Go to skycoin.net in your browser.
 
 Click on download skycoin wallet.
 
-![](file:///C:\Users\yuliad\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)![](/assets/ScreenHunter_05 Apr. 27 20.48.jpg)
+![](file:///C:\Users\yuliad\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)![](/assets/DownloadWallet.png)
 
 Choose your OS.![](/assets/OsWind.jpg)
 
