@@ -18,7 +18,7 @@ Skycoin wallet will open.
 
 Click on New Wallet.
 
-![](/assets/Screenshot from 2017-04-30 22-55-40.png)
+![](/assets/loadNewWall.png)
 
 Look at the field called seed ,remember it, put it some place safe this is the key to your wallet.You lose the key, you loose your money.
 
@@ -30,7 +30,7 @@ Now after you create your first wallet let send some money with it.
 
 Go to send tab.
 
-![](/assets/Screenshot from 2017-04-30 23-14-27.png)
+![](/assets/SendMoney.png)
 
 Now lets enter our PayTo , Amount and Note.Choose the wallet you'd like to use\(you can have few wallets.\)
 
